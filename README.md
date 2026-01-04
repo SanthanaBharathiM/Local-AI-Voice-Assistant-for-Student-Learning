@@ -29,7 +29,7 @@ While most AI tutoring solutions require cloud connectivity and expensive hardwa
 ### One-Command Setup
 
 ```bash
-git clone https://github.com/yourusername/local-ai-voice-assistant.git
+git clone https://github.com/SanthanaBharathiM/Local-AI-Voice-Assistant-for-Student-Learning
 cd local-ai-voice-assistant
 chmod +x setup.sh
 ./setup.sh
@@ -37,7 +37,7 @@ chmod +x setup.sh
 
 On Windows (PowerShell):
 ```powershell
-git clone https://github.com/yourusername/local-ai-voice-assistant.git
+git clone https://github.com/SanthanaBharathiM/local-ai-voice-assistant.git
 cd local-ai-voice-assistant
 .\setup.ps1
 ```
