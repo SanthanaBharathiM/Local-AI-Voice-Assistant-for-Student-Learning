@@ -37,7 +37,7 @@ chmod +x setup.sh
 
 On Windows (PowerShell):
 ```powershell
-git clone https://github.com/SanthanaBharathiM/local-ai-voice-assistant.git
+git clone https://github.com/SanthanaBharathiM/Local-AI-Voice-Assistant-for-Student-Learning
 cd local-ai-voice-assistant
 .\setup.ps1
 ```
